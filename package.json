@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "kevin yancoba <kvinquiej@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
