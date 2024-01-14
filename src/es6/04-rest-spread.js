@@ -7,7 +7,6 @@ let [apple,orrange, kiwi] = fruits;
 console.log(apple,orrange, kiwi);
 
 // desestructuracion de objects
-
 let user = {name: 'keivn', edad: 22};
 let {name, edad} = user;
 

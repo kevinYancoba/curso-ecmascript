@@ -1,6 +1,7 @@
 
 class user{
 
+    // construnctor de clase
     constructor (nombre, edad){
         this.nombre = nombre;
         this.edad = edad
@@ -10,7 +11,7 @@ class user{
     saludo(){
         console.log(`Hola ${this.nombre}`);
     }
-
+    // setter and getters
     set(u){
         this.edad = u;
     }
